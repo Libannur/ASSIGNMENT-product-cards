@@ -1,6 +1,6 @@
 body {
     background-image: url('photos/image\ copy.png');
-    background-size: cover;
+    background-repeat: inherit;
 }
 
 h1 {
@@ -23,4 +23,11 @@ h1 {
 }
 .card-header {
     padding-bottom: 15px;;
+}
+h2 {
+    text-align: center;
+    font-weight: bold;
+}
+img {
+    padding-bottom: 10px;
 }
