@@ -1,6 +1,7 @@
 body {
     background-image: url('photos/image\ copy.png');
     background-repeat: inherit;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -30,4 +31,8 @@ h2 {
 }
 img {
     padding-bottom: 10px;
+}
+.sold-out {
+    position: absolute;
+
 }
